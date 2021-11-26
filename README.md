@@ -1,5 +1,7 @@
 # ♪ Welcome to Remix
 
+サンプル環境は立ち上げたがこれで何作るかまだ決めていない〜
+
 - [Remix Docs](https://remix.run/docs)
 
 ## 開発
