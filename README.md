@@ -7,7 +7,7 @@
 ターミナルから
 
 ```sh
-npm run dev
+yarn run dev
 ```
 
 これにより、アプリが開発モードで起動し、ファイルの変更に応じてアセットが再構築されます。
@@ -17,7 +17,7 @@ npm run dev
 まず、アプリをプロダクション用にビルドします。
 
 ```sh
-npm run build
+yarn run build
 ```
 
 次に、アプリをプロダクションモードで実行します。
@@ -25,7 +25,7 @@ npm run build
 次のようにします。
 
 ```sh
-npm start
+yarn start
 ```
 
 あとは、デプロイ先のホストを決めるだけです。
