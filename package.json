@@ -1,8 +1,10 @@
 {
   "private": true,
   "name": "learn_remix",
+  "author": "Riml",
   "description": "remixの勉強用",
   "license": "MIT Licence",
+  "version": "0.0.1",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
