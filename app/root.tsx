@@ -108,7 +108,7 @@ function Layout({ children }: React.PropsWithChildren<{}>) {
       </div>
       <footer className="remix-app__footer">
         <div className="container remix-app__footer-content">
-          <p>&copy; You!</p>
+          <p>&copy; Riml</p>
         </div>
       </footer>
     </div>
